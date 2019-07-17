@@ -5,7 +5,7 @@ var path = require('path');
 
 //configure express to port 3000 localhost
 var app = express();
-var PORT = 3000;
+var PORT = process.env.PORT || 3000;
 
 // Express app setup using bodyparser to view data
 app.use(bodyParser.json());
