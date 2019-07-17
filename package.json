@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Perluceo/FriendFinder#readme",
   "dependencies": {
-    "exports": "0.0.1"
+    "exports": "0.0.1",
+    "express": "^4.17.1"
   }
 }
