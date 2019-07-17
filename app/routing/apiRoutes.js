@@ -7,11 +7,11 @@ var path = require('path');
 //Routes
 module.exports = function(app) {
 
-	app.get('/api/matches', function(req, res){
+	app.get('/api/friends', function(req, res){
 		res.json(matchList);
 	});
 
-	app.post('/api/matches', function(req, res){
+	app.post('/api/friends', function(req, res){
 
 		var bestMatch = {
 			'name': 'none',
