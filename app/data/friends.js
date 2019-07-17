@@ -1,5 +1,5 @@
 //list of intial matches
-var matches = [
+var matchList = [
 	{
 		name: "Brandon",
 		photo: "https://format-com-cld-res.cloudinary.com/image/private/s--WgLmCKTi--/c_limit,g_center,h_700,w_65535/a_auto,fl_keep_iptc.progressive,q_95/v1/dd6e24cdfe7cfe835ee6e6701fe8979e/C-0903_web.jpg",
@@ -14,4 +14,4 @@ var matches = [
 	}
 ];
 
-module.export = matches;
+module.export = matchList;
