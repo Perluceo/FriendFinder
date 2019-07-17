@@ -4,6 +4,12 @@ Compatibility-based "FriendFinder" application is basically a dating app but can
 
 Express handles application routing.  The application is also deployed to heroku.  Press <a href ="https://aqueous-river-88890.herokuapp.com/survey">here to check it out and find your next friend match!
 
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+   <source src="{{images\screencast.webm}}/media/2016-10-24-add-video-to-github-README/visualise_params.webm"  type="video/webm"/>
+   </video>
+</div>
+
 
 <h1>Technologies Used</h1>
 <ul>
