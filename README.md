@@ -10,6 +10,5 @@ Express handles application routing.  The application is also deployed to heroku
 <li>Node</li>
 <li>Express</li>
 <li>Heroku</li>
-<li>NPM packages Body Parser, Path, and Express<li>
+<li>NPM packages Body Parser, Path, and Express</li>
 </ul>
-
