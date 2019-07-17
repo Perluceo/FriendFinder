@@ -14,4 +14,4 @@ var matchList = [
 	}
 ];
 
-module.export = matchList;
+module.exports = matchList;
